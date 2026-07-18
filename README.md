@@ -4,7 +4,16 @@ Fruit Ninja you play with your hand. No mouse, no keyboard — a webcam tracks y
 
 Built with Python, OpenCV, MediaPipe and Pygame.
 
-![demo](assets/kian.gif)
+
+
+https://github.com/user-attachments/assets/a458ebd5-d2f8-4a01-9673-109eb8045582
+
+
+
+
+
+
+
 
 ---
 
